@@ -1,0 +1,19 @@
+#greenDiv{
+  width: 100px;
+  height: 30px;
+  background-color: green;
+  color: white;
+  font-weight: bold;
+}
+
+#redDiv{
+  width: 100px;
+  height: 30px;
+  background-color: red;
+  color: white;
+  font-weight: bold;
+}
+
+input{
+  width : 70%;
+}
